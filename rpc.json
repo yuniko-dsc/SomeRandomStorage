@@ -1,46 +1,3804 @@
 {
-    "ps6": {
-		"name": "Playing on PS6",
-        "type": "COMPETING",
-        "state": "Orbis v11.52",
-        "details": "Early Access (Exclusive)",
-        "application_id": null,
-        "platform": "ps5",
-        "assets": { "large_image": "https://i.postimg.cc/TYBM3qnZ/image.png" },
-        "buttons": [],
-        "metadata": {
-            "button_urls": []
-        },
-        "timestamps": null
-	},
-	
-	"proton": {
-		"name": "Proton VPN",
-        "type": "STREAMING",
-        "state": "REAL: 68.148.144.137",
-        "details": "VPN: 111.42.116.82",
-        "application_id": null,
-        "platform": "desktop",
-        "assets": { "large_image": "https://i.postimg.cc/sfS0JdWZ/image.png" },
-        "buttons": [],
-        "metadata": {
-            "button_urls": []
-        },
-        "timestamps": null
-	},
-	
-	"gta6": {
-		"name": "GTA VI",
-        "type": "PLAYING",
-        "state": "Playing as Lucia",
-        "details": null,
-        "application_id": null,
-        "platform": "xbox",
-        "assets": { "large_image": "https://i.postimg.cc/RFwQwmDk/image.png" },
-        "buttons": [],
-        "metadata": {
-            "button_urls": []
-        },
-        "timestamps": null
-	}
+  "ps6": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Playing on PS6",
+    "type": "COMPETING",
+    "state": "Orbis v11.52",
+    "details": "Early Access (Exclusive)",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f42d26876e9ff1cc123f93b9cff75ed1/32/512x512.png",
+      "large_text": "PlayStation"
+    }
+  },
+  "proton": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Proton VPN",
+    "type": "STREAMING",
+    "state": "REAL: 68.148.144.137",
+    "details": "VPN: 111.42.116.82",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/3f139754ab9de61afa67a38155def71a/32/256x256.png",
+      "large_text": "Proton VPN"
+    }
+  },
+  "gta6": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "GTA VI",
+    "type": "PLAYING",
+    "state": "Playing as Lucia",
+    "details": "Story Mode",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f1c1592588411002af340cbaedd6fc33/32/256x256.png",
+      "large_text": "GTA VI"
+    }
+  },
+  "crunchyroll-solo-leveling": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 1",
+    "details": "Solo Leveling",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
+      "large_text": "Solo Leveling"
+    }
+  },
+  "crunchyroll-jujutsu-kaisen": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 2",
+    "details": "Jujutsu Kaisen",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+      "large_text": "Jujutsu Kaisen"
+    }
+  },
+  "crunchyroll-one-piece": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 3",
+    "details": "One Piece",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+      "large_text": "One Piece"
+    }
+  },
+  "crunchyroll-naruto-shippuden": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 4",
+    "details": "Naruto Shippuden",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+      "large_text": "Naruto Shippuden"
+    }
+  },
+  "crunchyroll-bleach": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 5",
+    "details": "Bleach",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "large_text": "Bleach"
+    }
+  },
+  "crunchyroll-attack-on-titan": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 6",
+    "details": "Attack on Titan",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+      "large_text": "Attack on Titan"
+    }
+  },
+  "crunchyroll-demon-slayer": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 7",
+    "details": "Demon Slayer",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
+      "large_text": "Demon Slayer"
+    }
+  },
+  "crunchyroll-chainsaw-man": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 8",
+    "details": "Chainsaw Man",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+      "large_text": "Chainsaw Man"
+    }
+  },
+  "crunchyroll-spy-x-family": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 9",
+    "details": "Spy x Family",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+      "large_text": "Spy x Family"
+    }
+  },
+  "crunchyroll-my-hero-academia": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 10",
+    "details": "My Hero Academia",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+      "large_text": "My Hero Academia"
+    }
+  },
+  "crunchyroll-death-note": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 11",
+    "details": "Death Note",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+      "large_text": "Death Note"
+    }
+  },
+  "crunchyroll-fullmetal-alchemist": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 12",
+    "details": "Fullmetal Alchemist",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png",
+      "large_text": "Fullmetal Alchemist"
+    }
+  },
+  "crunchyroll-hunter-x-hunter": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 13",
+    "details": "Hunter x Hunter",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+      "large_text": "Hunter x Hunter"
+    }
+  },
+  "crunchyroll-tokyo-ghoul": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 14",
+    "details": "Tokyo Ghoul",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+      "large_text": "Tokyo Ghoul"
+    }
+  },
+  "crunchyroll-steins-gate": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 15",
+    "details": "Steins;Gate",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "large_text": "Steins;Gate"
+    }
+  },
+  "crunchyroll-code-geass": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 16",
+    "details": "Code Geass",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg",
+      "large_text": "Code Geass"
+    }
+  },
+  "crunchyroll-vinland-saga": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 17",
+    "details": "Vinland Saga",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+      "large_text": "Vinland Saga"
+    }
+  },
+  "crunchyroll-mob-psycho-100": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 18",
+    "details": "Mob Psycho 100",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg",
+      "large_text": "Mob Psycho 100"
+    }
+  },
+  "crunchyroll-one-punch-man": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 19",
+    "details": "One Punch Man",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+      "large_text": "One Punch Man"
+    }
+  },
+  "crunchyroll-blue-lock": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 20",
+    "details": "Blue Lock",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+      "large_text": "Blue Lock"
+    }
+  },
+  "crunchyroll-frieren": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 21",
+    "details": "Frieren",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+      "large_text": "Frieren"
+    }
+  },
+  "crunchyroll-bocchi-the-rock": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 22",
+    "details": "Bocchi the Rock",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png",
+      "large_text": "Bocchi the Rock"
+    }
+  },
+  "crunchyroll-cyberpunk-edgerunners": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 23",
+    "details": "Cyberpunk: Edgerunners",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+      "large_text": "Cyberpunk: Edgerunners"
+    }
+  },
+  "crunchyroll-re-zero": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 24",
+    "details": "Re:Zero",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+      "large_text": "Re:Zero"
+    }
+  },
+  "crunchyroll-konosuba": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 1",
+    "details": "Konosuba",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
+      "large_text": "Konosuba"
+    }
+  },
+  "crunchyroll-overlord": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 2",
+    "details": "Overlord",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg",
+      "large_text": "Overlord"
+    }
+  },
+  "crunchyroll-that-time-i-got-reincarnated-as-a-slime": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 3",
+    "details": "That Time I Got Reincarnated as a Slime",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
+      "large_text": "That Time I Got Reincarnated as a Slime"
+    }
+  },
+  "crunchyroll-black-clover": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 4",
+    "details": "Black Clover",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+      "large_text": "Black Clover"
+    }
+  },
+  "crunchyroll-fire-force": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 5",
+    "details": "Fire Force",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+      "large_text": "Fire Force"
+    }
+  },
+  "crunchyroll-dr-stone": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 6",
+    "details": "Dr. Stone",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg",
+      "large_text": "Dr. Stone"
+    }
+  },
+  "crunchyroll-haikyuu": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 7",
+    "details": "Haikyuu!!",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+      "large_text": "Haikyuu!!"
+    }
+  },
+  "crunchyroll-kaguya-sama": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 8",
+    "details": "Kaguya-sama",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+      "large_text": "Kaguya-sama"
+    }
+  },
+  "crunchyroll-oshi-no-ko": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 9",
+    "details": "Oshi no Ko",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
+      "large_text": "Oshi no Ko"
+    }
+  },
+  "crunchyroll-mashle": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 10",
+    "details": "Mashle",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
+      "large_text": "Mashle"
+    }
+  },
+  "crunchyroll-dandadan": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 11",
+    "details": "Dandadan",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+      "large_text": "Dandadan"
+    }
+  },
+  "crunchyroll-sakamoto-days": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 12",
+    "details": "Sakamoto Days",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+      "large_text": "Sakamoto Days"
+    }
+  },
+  "crunchyroll-tower-of-god": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 13",
+    "details": "Tower of God",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
+      "large_text": "Tower of God"
+    }
+  },
+  "crunchyroll-the-promised-neverland": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 14",
+    "details": "The Promised Neverland",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+      "large_text": "The Promised Neverland"
+    }
+  },
+  "crunchyroll-erased": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 15",
+    "details": "Erased",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg",
+      "large_text": "Erased"
+    }
+  },
+  "crunchyroll-your-name": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 16",
+    "details": "Your Name",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg",
+      "large_text": "Your Name"
+    }
+  },
+  "crunchyroll-weathering-with-you": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 17",
+    "details": "Weathering With You",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
+      "large_text": "Weathering With You"
+    }
+  },
+  "crunchyroll-suzume": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 18",
+    "details": "Suzume",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn.myanimelist.net/images/anime/1598/128450l.jpg",
+      "large_text": "Suzume"
+    }
+  },
+  "crunchyroll-a-silent-voice": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 19",
+    "details": "A Silent Voice",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+      "large_text": "A Silent Voice"
+    }
+  },
+  "crunchyroll-violet-evergarden": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 20",
+    "details": "Violet Evergarden",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+      "large_text": "Violet Evergarden"
+    }
+  },
+  "crunchyroll-made-in-abyss": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 21",
+    "details": "Made in Abyss",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
+      "large_text": "Made in Abyss"
+    }
+  },
+  "crunchyroll-parasyte": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 22",
+    "details": "Parasyte",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg",
+      "large_text": "Parasyte"
+    }
+  },
+  "crunchyroll-psycho-pass": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 23",
+    "details": "Psycho-Pass",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13601-i42VFuHpqEOJ.jpg",
+      "large_text": "Psycho-Pass"
+    }
+  },
+  "crunchyroll-cowboy-bebop": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 24",
+    "details": "Cowboy Bebop",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+      "large_text": "Cowboy Bebop"
+    }
+  },
+  "crunchyroll-trigun-stampede": {
+    "status": true,
+    "application_id": "981509069309354054",
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "crunchyroll",
+    "name": "Crunchyroll",
+    "type": "WATCHING",
+    "state": "Episode 1",
+    "details": "Trigun Stampede",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151040-9QXRpaprfNmL.png",
+      "large_text": "Trigun Stampede"
+    }
+  },
+  "spotify-blinding-lights-the-weeknd": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Blinding Lights",
+    "state": "by The Weeknd",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/600x600bb.jpg",
+      "large_text": "Blinding Lights"
+    }
+  },
+  "spotify-starboy-the-weeknd": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Starboy",
+    "state": "by The Weeknd",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/600x600bb.jpg",
+      "large_text": "Starboy"
+    }
+  },
+  "spotify-save-your-tears-the-weeknd": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Save Your Tears",
+    "state": "by The Weeknd",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/3a/f7/833af71b-2e0c-3303-24f5-8f5c546c073b/20UMGIM21167.rgb.jpg/600x600bb.jpg",
+      "large_text": "Save Your Tears"
+    }
+  },
+  "spotify-god-s-plan-drake": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "God's Plan",
+    "state": "by Drake",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/600x600bb.jpg",
+      "large_text": "God's Plan"
+    }
+  },
+  "spotify-one-dance-drake": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "One Dance",
+    "state": "by Drake",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/600x600bb.jpg",
+      "large_text": "One Dance"
+    }
+  },
+  "spotify-hotline-bling-drake": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Hotline Bling",
+    "state": "by Drake",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/600x600bb.jpg",
+      "large_text": "Hotline Bling"
+    }
+  },
+  "spotify-sicko-mode-travis-scott": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "SICKO MODE",
+    "state": "by Travis Scott",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/600x600bb.jpg",
+      "large_text": "SICKO MODE"
+    }
+  },
+  "spotify-goosebumps-travis-scott": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "goosebumps",
+    "state": "by Travis Scott",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/600x600bb.jpg",
+      "large_text": "goosebumps"
+    }
+  },
+  "spotify-fe-n-travis-scott": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "FE!N",
+    "state": "by Travis Scott",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/b5/5e/98b55efe-7310-e3cb-0f9f-27abb1a2b182/20a1306b-6cf6-4194-a492-a402d3dee879.jpg/600x600bb.jpg",
+      "large_text": "FE!N"
+    }
+  },
+  "spotify-humble-kendrick-lamar": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "HUMBLE.",
+    "state": "by Kendrick Lamar",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ab/16/ef/ab16efe9-e7f1-66ec-021c-5592a23f0f9e/17UMGIM88793.rgb.jpg/600x600bb.jpg",
+      "large_text": "HUMBLE."
+    }
+  },
+  "spotify-dna-kendrick-lamar": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "DNA.",
+    "state": "by Kendrick Lamar",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/28/36/94283609-93bb-db1c-e997-44e82c157e90/00602567261216.rgb.jpg/600x600bb.jpg",
+      "large_text": "DNA."
+    }
+  },
+  "spotify-all-the-stars-kendrick-lamar": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "All The Stars",
+    "state": "by Kendrick Lamar",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/600x600bb.jpg",
+      "large_text": "All The Stars"
+    }
+  },
+  "spotify-levitating-dua-lipa": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Levitating",
+    "state": "by Dua Lipa",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/600x600bb.jpg",
+      "large_text": "Levitating"
+    }
+  },
+  "spotify-don-t-start-now-dua-lipa": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Don't Start Now",
+    "state": "by Dua Lipa",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/600x600bb.jpg",
+      "large_text": "Don't Start Now"
+    }
+  },
+  "spotify-new-rules-dua-lipa": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "New Rules",
+    "state": "by Dua Lipa",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/33/cf/3133cffc-4b77-f3c6-3ee3-5c9b6cfb6bd4/190295806675.jpg/600x600bb.jpg",
+      "large_text": "New Rules"
+    }
+  },
+  "spotify-bad-guy-billie-eilish": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "bad guy",
+    "state": "by Billie Eilish",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/600x600bb.jpg",
+      "large_text": "bad guy"
+    }
+  },
+  "spotify-happier-than-ever-billie-eilish": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Happier Than Ever",
+    "state": "by Billie Eilish",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/0c/53/d50c5343-58d1-9dfa-22ea-b6ea25b6327b/21UMGIM36684.rgb.jpg/600x600bb.jpg",
+      "large_text": "Happier Than Ever"
+    }
+  },
+  "spotify-lovely-billie-eilish": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Lovely",
+    "state": "by Billie Eilish",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/600x600bb.jpg",
+      "large_text": "Lovely"
+    }
+  },
+  "spotify-as-it-was-harry-styles": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "As It Was",
+    "state": "by Harry Styles",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/600x600bb.jpg",
+      "large_text": "As It Was"
+    }
+  },
+  "spotify-watermelon-sugar-harry-styles": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Watermelon Sugar",
+    "state": "by Harry Styles",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/600x600bb.jpg",
+      "large_text": "Watermelon Sugar"
+    }
+  },
+  "spotify-sign-of-the-times-harry-styles": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Sign of the Times",
+    "state": "by Harry Styles",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/600x600bb.jpg",
+      "large_text": "Sign of the Times"
+    }
+  },
+  "spotify-shape-of-you-ed-sheeran": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Shape of You",
+    "state": "by Ed Sheeran",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/600x600bb.jpg",
+      "large_text": "Shape of You"
+    }
+  },
+  "spotify-perfect-ed-sheeran": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Perfect",
+    "state": "by Ed Sheeran",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/600x600bb.jpg",
+      "large_text": "Perfect"
+    }
+  },
+  "spotify-shivers-ed-sheeran": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Shivers",
+    "state": "by Ed Sheeran",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/600x600bb.jpg",
+      "large_text": "Shivers"
+    }
+  },
+  "spotify-uptown-funk-bruno-mars": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Uptown Funk",
+    "state": "by Bruno Mars",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/600x600bb.jpg",
+      "large_text": "Uptown Funk"
+    }
+  },
+  "spotify-24k-magic-bruno-mars": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "24K Magic",
+    "state": "by Bruno Mars",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/600x600bb.jpg",
+      "large_text": "24K Magic"
+    }
+  },
+  "spotify-locked-out-of-heaven-bruno-mars": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Locked Out of Heaven",
+    "state": "by Bruno Mars",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/600x600bb.jpg",
+      "large_text": "Locked Out of Heaven"
+    }
+  },
+  "spotify-circles-post-malone": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Circles",
+    "state": "by Post Malone",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/600x600bb.jpg",
+      "large_text": "Circles"
+    }
+  },
+  "spotify-sunflower-post-malone": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Sunflower",
+    "state": "by Post Malone",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/600x600bb.jpg",
+      "large_text": "Sunflower"
+    }
+  },
+  "spotify-rockstar-post-malone": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Rockstar",
+    "state": "by Post Malone",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/600x600bb.jpg",
+      "large_text": "Rockstar"
+    }
+  },
+  "spotify-industry-baby-lil-nas-x": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Industry Baby",
+    "state": "by Lil Nas X",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/16/67/f7166746-6299-5e54-8c7c-9535e941a53e/886449403929.jpg/600x600bb.jpg",
+      "large_text": "Industry Baby"
+    }
+  },
+  "spotify-montero-lil-nas-x": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "MONTERO",
+    "state": "by Lil Nas X",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/ef/37/8def37cf-f641-1bba-f312-61a9b8d19fbf/886449068029.jpg/600x600bb.jpg",
+      "large_text": "MONTERO"
+    }
+  },
+  "spotify-old-town-road-lil-nas-x": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Old Town Road",
+    "state": "by Lil Nas X",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/600x600bb.jpg",
+      "large_text": "Old Town Road"
+    }
+  },
+  "spotify-peaches-justin-bieber": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Peaches",
+    "state": "by Justin Bieber",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/92/da/e092da2d-9f6d-11dc-7843-2021e95a2b61/21UMGIM17518.rgb.jpg/600x600bb.jpg",
+      "large_text": "Peaches"
+    }
+  },
+  "spotify-stay-the-kid-laroi": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Stay",
+    "state": "by The Kid LAROI",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/59/6a/89596ab9-fa3c-8d08-4d95-a6450fa2013c/886449400515.jpg/600x600bb.jpg",
+      "large_text": "Stay"
+    }
+  },
+  "spotify-ghost-justin-bieber": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Ghost",
+    "state": "by Justin Bieber",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/92/da/e092da2d-9f6d-11dc-7843-2021e95a2b61/21UMGIM17518.rgb.jpg/600x600bb.jpg",
+      "large_text": "Ghost"
+    }
+  },
+  "spotify-flowers-miley-cyrus": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Flowers",
+    "state": "by Miley Cyrus",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/67/ff/8c67ff91-31c3-3fef-1884-ce3ec89f3af4/196589946874.jpg/600x600bb.jpg",
+      "large_text": "Flowers"
+    }
+  },
+  "spotify-wrecking-ball-miley-cyrus": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Wrecking Ball",
+    "state": "by Miley Cyrus",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/e0/84/e3e08400-2d03-75f9-6b8b-a3345452aa98/886444197816.jpg/600x600bb.jpg",
+      "large_text": "Wrecking Ball"
+    }
+  },
+  "spotify-party-in-the-u-s-a-miley-cyrus": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Party in the U.S.A.",
+    "state": "by Miley Cyrus",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/29/3e/1f293e38-987a-9a77-d004-c866acebdac1/09BVMIM00838.rgb.jpg/600x600bb.jpg",
+      "large_text": "Party in the U.S.A."
+    }
+  },
+  "spotify-kill-bill-sza": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Kill Bill",
+    "state": "by SZA",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/600x600bb.jpg",
+      "large_text": "Kill Bill"
+    }
+  },
+  "spotify-snooze-sza": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Snooze",
+    "state": "by SZA",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/93/13/6293132e-20ff-67ab-3d1f-96bb6797a6ba/196589564955.jpg/600x600bb.jpg",
+      "large_text": "Snooze"
+    }
+  },
+  "spotify-good-days-sza": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Good Days",
+    "state": "by SZA",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/93/13/6293132e-20ff-67ab-3d1f-96bb6797a6ba/196589564955.jpg/600x600bb.jpg",
+      "large_text": "Good Days"
+    }
+  },
+  "spotify-creepin-metro-boomin": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Creepin",
+    "state": "by Metro Boomin",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/f7/2b/82f72ba4-524c-fc9d-cb8c-5a96d2ddf536/22UM1IM35267.rgb.jpg/600x600bb.jpg",
+      "large_text": "Creepin"
+    }
+  },
+  "spotify-mask-off-future": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Mask Off",
+    "state": "by Future",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ea/43/5e/ea435e5e-78fe-d4a9-aedf-fbc3cf8cfc50/886446597119.jpg/600x600bb.jpg",
+      "large_text": "Mask Off"
+    }
+  },
+  "spotify-life-is-good-future": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Life Is Good",
+    "state": "by Future",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/41/4e/25414e8c-0201-866a-2e0c-1315ff649f6a/886448218852.jpg/600x600bb.jpg",
+      "large_text": "Life Is Good"
+    }
+  },
+  "spotify-praise-the-lord-a-ap-rocky": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Praise The Lord",
+    "state": "by A$AP Rocky",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/d9/00/aad900a7-77bf-7cde-9701-08b4231e3416/196871233514.jpg/600x600bb.jpg",
+      "large_text": "Praise The Lord"
+    }
+  },
+  "spotify-l-d-a-ap-rocky": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "L$D",
+    "state": "by A$AP Rocky",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/9b/4c/9f9b4cbc-5910-51fb-8486-adf3b89bc973/886444594837.jpg/600x600bb.jpg",
+      "large_text": "L$D"
+    }
+  },
+  "spotify-sundress-a-ap-rocky": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Sundress",
+    "state": "by A$AP Rocky",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/c1/6a/1ac16a12-cfb5-269e-fa3e-ac9080ad420b/886447427460.jpg/600x600bb.jpg",
+      "large_text": "Sundress"
+    }
+  },
+  "spotify-xo-tour-llif3-lil-uzi-vert": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "XO Tour Llif3",
+    "state": "by Lil Uzi Vert",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/ed/6f/02ed6f77-7e89-ca9c-4d5a-83088113cbe8/075679887955.jpg/600x600bb.jpg",
+      "large_text": "XO Tour Llif3"
+    }
+  },
+  "spotify-money-longer-lil-uzi-vert": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "Money Longer",
+    "state": "by Lil Uzi Vert",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/f3/b9/e8f3b9fd-979c-7def-e314-13a021dea301/075679711694.jpg/600x600bb.jpg",
+      "large_text": "Money Longer"
+    }
+  },
+  "spotify-the-way-life-goes-lil-uzi-vert": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "album_id": null,
+      "artist_ids": [],
+      "button_urls": []
+    },
+    "timestamps": null,
+    "kind": "spotify",
+    "name": "Spotify",
+    "type": "LISTENING",
+    "details": "The Way Life Goes",
+    "state": "by Lil Uzi Vert",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/ed/6f/02ed6f77-7e89-ca9c-4d5a-83088113cbe8/075679887955.jpg/600x600bb.jpg",
+      "large_text": "The Way Life Goes"
+    }
+  },
+  "game-minecraft": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Minecraft",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/add7a048049671970976f3e18f21ade3/32/256x256.png",
+      "large_text": "Minecraft"
+    }
+  },
+  "game-fortnite": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Fortnite",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/174edde7313a8f0cdead57d726ad6f97/32/512x512.png",
+      "large_text": "Fortnite"
+    }
+  },
+  "game-valorant": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Valorant",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/191c62d342811d1a0d3d0528ec35cd2d/32/256x256.png",
+      "large_text": "Valorant"
+    }
+  },
+  "game-counter-strike-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Counter-Strike 2",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png",
+      "large_text": "Counter-Strike 2"
+    }
+  },
+  "game-apex-legends": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Apex Legends",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/fc37c234a9b820027243ea2255da90b7.png",
+      "large_text": "Apex Legends"
+    }
+  },
+  "game-gta-v": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "GTA V",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f1c1592588411002af340cbaedd6fc33/32/256x256.png",
+      "large_text": "GTA V"
+    }
+  },
+  "game-roblox": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Roblox",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/177db6acfe388526a4c7bff88e1feb15.png",
+      "large_text": "Roblox"
+    }
+  },
+  "game-league-of-legends": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "League of Legends",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f8e8b1feff822753a39b21de69259fd6/32/256x256.png",
+      "large_text": "League of Legends"
+    }
+  },
+  "game-dota-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Dota 2",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/ec1e28dc996e7d39d7535a730ead176e/32/256x256.png",
+      "large_text": "Dota 2"
+    }
+  },
+  "game-overwatch-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Overwatch 2",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/f812eab186eb17d72275bb38b918913d.png",
+      "large_text": "Overwatch 2"
+    }
+  },
+  "game-call-of-duty": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Call of Duty",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/f1e709e6aef16ba2f0cd6c7e4f52b9b6.png",
+      "large_text": "Call of Duty"
+    }
+  },
+  "game-warzone": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Warzone",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/2cada5cdd174d65c05a2c95ac3404f2344bb0bbf/capsule_231x87_alt_assets_18.jpg?t=1781624583",
+      "large_text": "Warzone"
+    }
+  },
+  "game-rainbow-six-siege": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Rainbow Six Siege",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/223bbe350d5770ef8a5a25d62f4bf974/32/512x512.png",
+      "large_text": "Rainbow Six Siege"
+    }
+  },
+  "game-pubg": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "PUBG",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/64c2d22899f32ccd5b3d9fca3ff04c9c/32/256x256.png",
+      "large_text": "PUBG"
+    }
+  },
+  "game-rocket-league": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Rocket League",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f1e513f02d2dbe70b939178cb7d4fbac/32/1024x1024.png",
+      "large_text": "Rocket League"
+    }
+  },
+  "game-among-us": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Among Us",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/c1b782bc1cdd29464a9d0e7298a91678/32/512x512.png",
+      "large_text": "Among Us"
+    }
+  },
+  "game-fall-guys": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Fall Guys",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/9673ed352d35974c9920242edac18fa3/32/256x256.png",
+      "large_text": "Fall Guys"
+    }
+  },
+  "game-terraria": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Terraria",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/c8157144d45faf12c01a459170b2333a/32/512x512.png",
+      "large_text": "Terraria"
+    }
+  },
+  "game-red-dead-redemption-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Red Dead Redemption 2",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f6ad645a331d5e5e95938c1439ba385d/32/256x256.png",
+      "large_text": "Red Dead Redemption 2"
+    }
+  },
+  "game-cyberpunk-2077": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Cyberpunk 2077",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/b3e3e393c77e35a4a3f3cbd1e429b5dc/32/256x256.png",
+      "large_text": "Cyberpunk 2077"
+    }
+  },
+  "game-elden-ring": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "ELDEN RING",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/3c7b933fa023d881921776fe47b69a0b/32/256x256.png",
+      "large_text": "ELDEN RING"
+    }
+  },
+  "game-dark-souls-iii": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Dark Souls III",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/33da7396d6250b35f16a25b021739713.png",
+      "large_text": "Dark Souls III"
+    }
+  },
+  "game-sekiro": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Sekiro",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/e732b84af8e033529e17550b87b64c50/32/512x512.png",
+      "large_text": "Sekiro"
+    }
+  },
+  "game-baldur-s-gate-3": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Baldur's Gate 3",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/84c98a4bae3853fec6a04c79d5091f60.png",
+      "large_text": "Baldur's Gate 3"
+    }
+  },
+  "game-the-witcher-3": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "The Witcher 3",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/b9a8f4af85454f7c56c06f0a39e7ec23.png",
+      "large_text": "The Witcher 3"
+    }
+  },
+  "game-skyrim": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Skyrim",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/a667f4e7b0c8a3babe331569d3eac6bd.png",
+      "large_text": "Skyrim"
+    }
+  },
+  "game-hogwarts-legacy": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Hogwarts Legacy",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/dfc0ddf31f87eeef737ffb16705467b5/32/256x256.png",
+      "large_text": "Hogwarts Legacy"
+    }
+  },
+  "game-starfield": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Starfield",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/4537a9e98e90f416dadaedd65c416843.png",
+      "large_text": "Starfield"
+    }
+  },
+  "game-palworld": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Palworld",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/82cf0712367108660c5339a4897a728e/32/256x256.png",
+      "large_text": "Palworld"
+    }
+  },
+  "game-lethal-company": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Lethal Company",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/5d29c687a58bc919bd4b28609e2f7134/32/512x512.png",
+      "large_text": "Lethal Company"
+    }
+  },
+  "game-helldivers-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Helldivers 2",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/a6cf2b02bf0a6a7494bd13b1257ad2c2/32/256x256.png",
+      "large_text": "Helldivers 2"
+    }
+  },
+  "game-destiny-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Destiny 2",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/9908279ebbf1f9b250ba689db6a0222b/32/256x256.png",
+      "large_text": "Destiny 2"
+    }
+  },
+  "game-warframe": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Warframe",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/83adc9225e4deb67d7ce42d58fe5157c/32/256x256.png",
+      "large_text": "Warframe"
+    }
+  },
+  "game-genshin-impact": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Genshin Impact",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/65ae27b8c33157282761f37083da12dd.png",
+      "large_text": "Genshin Impact"
+    }
+  },
+  "game-honkai-star-rail": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Honkai: Star Rail",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/ec01a34f7fc3b03448cc52f2a89d52e8.png",
+      "large_text": "Honkai: Star Rail"
+    }
+  },
+  "game-zenless-zone-zero": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Zenless Zone Zero",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/7029a498c4f596f73b35504df9bab02a.png",
+      "large_text": "Zenless Zone Zero"
+    }
+  },
+  "game-fifa-24": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "FIFA 24",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f33dc5483be5538172f6e326dc2a4266/32/256x256.png",
+      "large_text": "FIFA 24"
+    }
+  },
+  "game-ea-sports-fc-24": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "EA Sports FC 24",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f33dc5483be5538172f6e326dc2a4266/32/256x256.png",
+      "large_text": "EA Sports FC 24"
+    }
+  },
+  "game-nba-2k24": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "NBA 2K24",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/c2f3d9a01928774830f88c54e01fd66f.png",
+      "large_text": "NBA 2K24"
+    }
+  },
+  "game-f1-24": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "F1 24",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/7052b25cef90463701e3c16bcb34916b.png",
+      "large_text": "F1 24"
+    }
+  },
+  "game-forza-horizon-5": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Forza Horizon 5",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/a09163b9185953c6b7656e62bb2ef98b/32/256x256.png",
+      "large_text": "Forza Horizon 5"
+    }
+  },
+  "game-gran-turismo-7": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Gran Turismo 7",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/94154a9a594d81ca4863f9a28af9d885.png",
+      "large_text": "Gran Turismo 7"
+    }
+  },
+  "game-need-for-speed": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Need for Speed",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/5b0f06cd304f174c316b40e5b384a164/32/256x256.png",
+      "large_text": "Need for Speed"
+    }
+  },
+  "game-assetto-corsa": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Assetto Corsa",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/97208e4cb6de9c04b325c2185316439f.png",
+      "large_text": "Assetto Corsa"
+    }
+  },
+  "game-dead-by-daylight": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Dead by Daylight",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/735ddec196a9ca5745c05bec0eaa4bf9.png",
+      "large_text": "Dead by Daylight"
+    }
+  },
+  "game-phasmophobia": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Phasmophobia",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/1b742ae215adf18b75449c6e272fd92d/32/1024x1024.png",
+      "large_text": "Phasmophobia"
+    }
+  },
+  "game-rust": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Rust",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/1098f40d613dcadb0486a71293cb6e31/32/256x256.png",
+      "large_text": "Rust"
+    }
+  },
+  "game-ark": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "ARK",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/3ec0e2c7f4536e7ce9e9ce183b1de9e8/32/256x256.png",
+      "large_text": "ARK"
+    }
+  },
+  "game-dayz": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "DayZ",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/8788fba6a40330756f59a37106b005d5/32/128x128.png",
+      "large_text": "DayZ"
+    }
+  },
+  "game-escape-from-tarkov": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Escape from Tarkov",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/ccfac0e684af52c7a3fd89da04781638/32/512x512.png",
+      "large_text": "Escape from Tarkov"
+    }
+  },
+  "game-hades": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Hades",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png",
+      "large_text": "Hades"
+    }
+  },
+  "game-celeste": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Celeste",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f7e6c85504ce6e82442c770f7c8606f0/24/256x256.png",
+      "large_text": "Celeste"
+    }
+  },
+  "game-hollow-knight": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Hollow Knight",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/0e80627b065f42ceda0f4464845f2c65/32/256x256.png",
+      "large_text": "Hollow Knight"
+    }
+  },
+  "game-undertale": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Undertale",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/3b9be7e15b46c42911f39a4a9e861022/32/512x512.png",
+      "large_text": "Undertale"
+    }
+  },
+  "game-stardew-valley": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Stardew Valley",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/a429ee6281b4bad77a94b44df89f4036/32/512x512.png",
+      "large_text": "Stardew Valley"
+    }
+  },
+  "game-animal-crossing": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Animal Crossing",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/162c8a1cc0a8f18f8120a829f749e37f.png",
+      "large_text": "Animal Crossing"
+    }
+  },
+  "game-pokemon-scarlet": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Pokemon Scarlet",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/c6c477a7ecc421032cbb009a28f1daf9.png",
+      "large_text": "Pokemon Scarlet"
+    }
+  },
+  "game-pokemon-violet": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Pokemon Violet",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/f9e036c34e550a09edf738196fa2e49a.png",
+      "large_text": "Pokemon Violet"
+    }
+  },
+  "game-the-legend-of-zelda-tears-of-the-kingdom": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/aeb6c3640dead557f8f59634660ff0da.png",
+      "large_text": "The Legend of Zelda: Tears of the Kingdom"
+    }
+  },
+  "game-mario-kart-8": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Mario Kart 8",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/3cab34e6c6a51d1f2ca8e76908c62368.png",
+      "large_text": "Mario Kart 8"
+    }
+  },
+  "game-super-smash-bros-ultimate": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Super Smash Bros. Ultimate",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/0a5a1e198d8d7139df2137f519c3bf57.png",
+      "large_text": "Super Smash Bros. Ultimate"
+    }
+  },
+  "game-splatoon-3": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Splatoon 3",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/4cb2c784110fa31d56c0d67b36d19cab.png",
+      "large_text": "Splatoon 3"
+    }
+  },
+  "game-monster-hunter": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Monster Hunter",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/2d94e59366e95deaeb7528ddbfcf0d55.png",
+      "large_text": "Monster Hunter"
+    }
+  },
+  "game-final-fantasy-xiv": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Final Fantasy XIV",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/5f268dfb0fbef44de0f668a022707b86/32/256x256.png",
+      "large_text": "Final Fantasy XIV"
+    }
+  },
+  "game-final-fantasy-xvi": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Final Fantasy XVI",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/8d65c6715c690c06859128920715b807/32/256x256.png",
+      "large_text": "Final Fantasy XVI"
+    }
+  },
+  "game-persona-5": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Persona 5",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/218a0aefd1d1a4be65601cc6ddc1520e.png",
+      "large_text": "Persona 5"
+    }
+  },
+  "game-street-fighter-6": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Street Fighter 6",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/6622392eb0d8dfdacc44c7f7397ce4ab.png",
+      "large_text": "Street Fighter 6"
+    }
+  },
+  "game-tekken-8": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Tekken 8",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/77d570f78f6c228ea56fb529a4cd703f/32/256x256.png",
+      "large_text": "Tekken 8"
+    }
+  },
+  "game-mortal-kombat-1": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Mortal Kombat 1",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/756f3d220f584170f0bd50b552fbb76b.png",
+      "large_text": "Mortal Kombat 1"
+    }
+  },
+  "game-marvel-rivals": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Marvel Rivals",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/916030603cc86a9b3d29f4d64f1bc415/32/256x256.png",
+      "large_text": "Marvel Rivals"
+    }
+  },
+  "game-the-finals": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "The Finals",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/c798707d32dbc54e1076d05963029a00/32/256x256.png",
+      "large_text": "The Finals"
+    }
+  },
+  "game-battlefield-2042": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Battlefield 2042",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/7fc9fd4c6654dea5be92c8ffd53bea1e/32/256x256.png",
+      "large_text": "Battlefield 2042"
+    }
+  },
+  "game-halo-infinite": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Halo Infinite",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/f52166cd701447355be87cbf41d31ca4/32/256x256.png",
+      "large_text": "Halo Infinite"
+    }
+  },
+  "game-sea-of-thieves": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Sea of Thieves",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/ed8a8a99fd79417dd5ee86e141fc2233/32/512x512.png",
+      "large_text": "Sea of Thieves"
+    }
+  },
+  "game-no-man-s-sky": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "No Man's Sky",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/460295ce15c9440d9be6fb474387a285/32/256x256.png",
+      "large_text": "No Man's Sky"
+    }
+  },
+  "game-satisfactory": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Satisfactory",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/a12848aeac58ac57e95977f93fec17fd.png",
+      "large_text": "Satisfactory"
+    }
+  },
+  "game-factorio": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Factorio",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/6ca4e9af5ea662a095c3243dc591bf54/32/256x256.png",
+      "large_text": "Factorio"
+    }
+  },
+  "game-rimworld": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "RimWorld",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/d37eb50d868361ea729bb4147eb3c1d8.png",
+      "large_text": "RimWorld"
+    }
+  },
+  "game-cities-skylines-ii": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Cities: Skylines II",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/7d446f87814b6737194161ce1e50d432.png",
+      "large_text": "Cities: Skylines II"
+    }
+  },
+  "game-the-sims-4": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "The Sims 4",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/bca382c81484983f2d437f97d1e141f3.png",
+      "large_text": "The Sims 4"
+    }
+  },
+  "game-slay-the-spire": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Slay the Spire",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/aecf89d1270d044970cf4da4de7cf218/32/256x256.png",
+      "large_text": "Slay the Spire"
+    }
+  },
+  "game-balatro": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Balatro",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/de7954bda572f1c1b0dfe0f44dee24f6/32/512x512.png",
+      "large_text": "Balatro"
+    }
+  },
+  "game-dave-the-diver": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Dave the Diver",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/348bd749ca9ee5f03b04b8a2f0befc79/32/1024x1024.png",
+      "large_text": "Dave the Diver"
+    }
+  },
+  "game-cult-of-the-lamb": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Cult of the Lamb",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/0ac04853f8058f61af1ca7630e786d22/32/256x256.png",
+      "large_text": "Cult of the Lamb"
+    }
+  },
+  "game-vampire-survivors": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Vampire Survivors",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/2cb1e384e0906033e91c4795c75ae6fb/32/32x32.png",
+      "large_text": "Vampire Survivors"
+    }
+  },
+  "game-geometry-dash": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Geometry Dash",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/750ed96f0d56d3346cda66d24bc0cbd5/32/256x256.png",
+      "large_text": "Geometry Dash"
+    }
+  },
+  "game-osu": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "osu!",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/7684e639a4abf794db72f91df4047c64.png",
+      "large_text": "osu!"
+    }
+  },
+  "game-beat-saber": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Beat Saber",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "samsung",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/32e3b25cfdadc8779a12ddc58c0b2a8d/32/256x256.png",
+      "large_text": "Beat Saber"
+    }
+  },
+  "game-vrchat": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "VRChat",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/4b0a618db23379c7c77f818cf569050d/32/256x256.png",
+      "large_text": "VRChat"
+    }
+  },
+  "game-garry-s-mod": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Garry's Mod",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/131f383b434fdf48079bff1e44e2d9a5/32/256x256.png",
+      "large_text": "Garry's Mod"
+    }
+  },
+  "game-team-fortress-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Team Fortress 2",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps4",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/d35a34476be067a04fa756c8c0b7dfbd/32/256x256.png",
+      "large_text": "Team Fortress 2"
+    }
+  },
+  "game-portal-2": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Portal 2",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png",
+      "large_text": "Portal 2"
+    }
+  },
+  "game-doom-eternal": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Doom Eternal",
+    "type": "COMPETING",
+    "state": "Ranked",
+    "details": "Online",
+    "platform": "xbox",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/9813b270ed0288e7c0388f0fd4ec68f5/32/512x512.png",
+      "large_text": "Doom Eternal"
+    }
+  },
+  "game-visual-studio-code": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Visual Studio Code",
+    "type": "WATCHING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "ios",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon_thumb/0390aff9c68eeb7b64fbebe21c878de3.png",
+      "large_text": "Visual Studio Code"
+    }
+  },
+  "game-discord": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Discord",
+    "type": "PLAYING",
+    "state": "In game",
+    "details": "Online",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/0b105cf1504c4e241fcc6d519ea962fb/32/256x256.png",
+      "large_text": "Discord"
+    }
+  },
+  "game-obs-studio": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "OBS Studio",
+    "type": "STREAMING",
+    "state": "In game",
+    "details": "Live",
+    "platform": "ps5",
+    "assets": {
+      "large_image": "https://cdn2.steamgriddb.com/icon/205e73579f21c2ed134dbd6ce7e4a1ea/32/256x256.png",
+      "large_text": "OBS Studio"
+    }
+  },
+  "legacy": {
+    "status": true,
+    "application_id": null,
+    "buttons": [],
+    "metadata": {
+      "button_urls": []
+    },
+    "timestamps": null,
+    "name": "Legacy Machine",
+    "type": "PLAYING",
+    "state": "Legacy Panel",
+    "details": "I'm in {servers_count} servers",
+    "platform": "desktop",
+    "assets": {
+      "large_image": "https://files.catbox.moe/17r1h2.png",
+      "large_text": "▸ Legacy Machine"
+    }
+  }
 }

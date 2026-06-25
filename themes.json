@@ -1,13 +1,1346 @@
 {
-    "crunchyroll": {
-	    "title": ""Crunchyroll",
-		"thumbnail": { "url": "https://i.postimg.cc/hhWkpKD8/image.png" },
-		"color": "#ff5500"
-	},
-	
-	"instagram": {
-	    "title": ""Instagram",
-		"thumbnail": { "url": "https://i.postimg.cc/7ZD6Lk3N/image.png" },
-		"color": "#ff004c"
-	}
+  "theme-minecraft": {
+    "title": "Minecraft",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/add7a048049671970976f3e18f21ade3/32/256x256.png"
+    },
+    "color": "#62a53a"
+  },
+  "theme-fortnite": {
+    "title": "Fortnite",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/174edde7313a8f0cdead57d726ad6f97/32/512x512.png"
+    },
+    "color": "#8f4fff"
+  },
+  "theme-valorant": {
+    "title": "Valorant",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/191c62d342811d1a0d3d0528ec35cd2d/32/256x256.png"
+    },
+    "color": "#ff4655"
+  },
+  "theme-counter-strike-2": {
+    "title": "Counter-Strike 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-apex-legends": {
+    "title": "Apex Legends",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/fc37c234a9b820027243ea2255da90b7.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-gta-v": {
+    "title": "GTA V",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f1c1592588411002af340cbaedd6fc33/32/256x256.png"
+    },
+    "color": "#00ff88"
+  },
+  "theme-gta-vi": {
+    "title": "GTA VI",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f1c1592588411002af340cbaedd6fc33/32/256x256.png"
+    },
+    "color": "#00ff88"
+  },
+  "theme-roblox": {
+    "title": "Roblox",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/177db6acfe388526a4c7bff88e1feb15.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-league-of-legends": {
+    "title": "League of Legends",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f8e8b1feff822753a39b21de69259fd6/32/256x256.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-dota-2": {
+    "title": "Dota 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/ec1e28dc996e7d39d7535a730ead176e/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-overwatch-2": {
+    "title": "Overwatch 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/f812eab186eb17d72275bb38b918913d.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-call-of-duty": {
+    "title": "Call of Duty",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/f1e709e6aef16ba2f0cd6c7e4f52b9b6.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-warzone": {
+    "title": "Warzone",
+    "thumbnail": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/2cada5cdd174d65c05a2c95ac3404f2344bb0bbf/capsule_231x87_alt_assets_18.jpg?t=1781624583"
+    },
+    "color": "#00acee"
+  },
+  "theme-rainbow-six-siege": {
+    "title": "Rainbow Six Siege",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/223bbe350d5770ef8a5a25d62f4bf974/32/512x512.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-pubg": {
+    "title": "PUBG",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/64c2d22899f32ccd5b3d9fca3ff04c9c/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-rocket-league": {
+    "title": "Rocket League",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f1e513f02d2dbe70b939178cb7d4fbac/32/1024x1024.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-among-us": {
+    "title": "Among Us",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/c1b782bc1cdd29464a9d0e7298a91678/32/512x512.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-fall-guys": {
+    "title": "Fall Guys",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/9673ed352d35974c9920242edac18fa3/32/256x256.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-terraria": {
+    "title": "Terraria",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/c8157144d45faf12c01a459170b2333a/32/512x512.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-red-dead-redemption-2": {
+    "title": "Red Dead Redemption 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f6ad645a331d5e5e95938c1439ba385d/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-cyberpunk-2077": {
+    "title": "Cyberpunk 2077",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/b3e3e393c77e35a4a3f3cbd1e429b5dc/32/256x256.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-elden-ring": {
+    "title": "ELDEN RING",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/3c7b933fa023d881921776fe47b69a0b/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-dark-souls-iii": {
+    "title": "Dark Souls III",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/33da7396d6250b35f16a25b021739713.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-sekiro": {
+    "title": "Sekiro",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/e732b84af8e033529e17550b87b64c50/32/512x512.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-baldur-s-gate-3": {
+    "title": "Baldur's Gate 3",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/84c98a4bae3853fec6a04c79d5091f60.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-the-witcher-3": {
+    "title": "The Witcher 3",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/b9a8f4af85454f7c56c06f0a39e7ec23.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-skyrim": {
+    "title": "Skyrim",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/a667f4e7b0c8a3babe331569d3eac6bd.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-hogwarts-legacy": {
+    "title": "Hogwarts Legacy",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/dfc0ddf31f87eeef737ffb16705467b5/32/256x256.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-starfield": {
+    "title": "Starfield",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/4537a9e98e90f416dadaedd65c416843.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-palworld": {
+    "title": "Palworld",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/82cf0712367108660c5339a4897a728e/32/256x256.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-lethal-company": {
+    "title": "Lethal Company",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/5d29c687a58bc919bd4b28609e2f7134/32/512x512.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-helldivers-2": {
+    "title": "Helldivers 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/a6cf2b02bf0a6a7494bd13b1257ad2c2/32/256x256.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-destiny-2": {
+    "title": "Destiny 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/9908279ebbf1f9b250ba689db6a0222b/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-warframe": {
+    "title": "Warframe",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/83adc9225e4deb67d7ce42d58fe5157c/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-genshin-impact": {
+    "title": "Genshin Impact",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/65ae27b8c33157282761f37083da12dd.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-honkai-star-rail": {
+    "title": "Honkai: Star Rail",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/ec01a34f7fc3b03448cc52f2a89d52e8.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-zenless-zone-zero": {
+    "title": "Zenless Zone Zero",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/7029a498c4f596f73b35504df9bab02a.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-fifa-24": {
+    "title": "FIFA 24",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f33dc5483be5538172f6e326dc2a4266/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-ea-sports-fc-24": {
+    "title": "EA Sports FC 24",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f33dc5483be5538172f6e326dc2a4266/32/256x256.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-nba-2k24": {
+    "title": "NBA 2K24",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/c2f3d9a01928774830f88c54e01fd66f.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-f1-24": {
+    "title": "F1 24",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/7052b25cef90463701e3c16bcb34916b.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-forza-horizon-5": {
+    "title": "Forza Horizon 5",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/a09163b9185953c6b7656e62bb2ef98b/32/256x256.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-gran-turismo-7": {
+    "title": "Gran Turismo 7",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/94154a9a594d81ca4863f9a28af9d885.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-need-for-speed": {
+    "title": "Need for Speed",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/5b0f06cd304f174c316b40e5b384a164/32/256x256.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-assetto-corsa": {
+    "title": "Assetto Corsa",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/97208e4cb6de9c04b325c2185316439f.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-dead-by-daylight": {
+    "title": "Dead by Daylight",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/735ddec196a9ca5745c05bec0eaa4bf9.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-phasmophobia": {
+    "title": "Phasmophobia",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/1b742ae215adf18b75449c6e272fd92d/32/1024x1024.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-rust": {
+    "title": "Rust",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/1098f40d613dcadb0486a71293cb6e31/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-ark": {
+    "title": "ARK",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/3ec0e2c7f4536e7ce9e9ce183b1de9e8/32/256x256.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-dayz": {
+    "title": "DayZ",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/8788fba6a40330756f59a37106b005d5/32/128x128.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-escape-from-tarkov": {
+    "title": "Escape from Tarkov",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/ccfac0e684af52c7a3fd89da04781638/32/512x512.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-hades": {
+    "title": "Hades",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-celeste": {
+    "title": "Celeste",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f7e6c85504ce6e82442c770f7c8606f0/24/256x256.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-hollow-knight": {
+    "title": "Hollow Knight",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/0e80627b065f42ceda0f4464845f2c65/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-undertale": {
+    "title": "Undertale",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/3b9be7e15b46c42911f39a4a9e861022/32/512x512.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-stardew-valley": {
+    "title": "Stardew Valley",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/a429ee6281b4bad77a94b44df89f4036/32/512x512.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-animal-crossing": {
+    "title": "Animal Crossing",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/162c8a1cc0a8f18f8120a829f749e37f.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-pokemon-scarlet": {
+    "title": "Pokemon Scarlet",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/c6c477a7ecc421032cbb009a28f1daf9.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-pokemon-violet": {
+    "title": "Pokemon Violet",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/f9e036c34e550a09edf738196fa2e49a.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-the-legend-of-zelda-tears-of-the-kingdom": {
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/aeb6c3640dead557f8f59634660ff0da.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-mario-kart-8": {
+    "title": "Mario Kart 8",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/3cab34e6c6a51d1f2ca8e76908c62368.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-super-smash-bros-ultimate": {
+    "title": "Super Smash Bros. Ultimate",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/0a5a1e198d8d7139df2137f519c3bf57.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-splatoon-3": {
+    "title": "Splatoon 3",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/4cb2c784110fa31d56c0d67b36d19cab.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-monster-hunter": {
+    "title": "Monster Hunter",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/2d94e59366e95deaeb7528ddbfcf0d55.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-final-fantasy-xiv": {
+    "title": "Final Fantasy XIV",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/5f268dfb0fbef44de0f668a022707b86/32/256x256.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-final-fantasy-xvi": {
+    "title": "Final Fantasy XVI",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/8d65c6715c690c06859128920715b807/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-persona-5": {
+    "title": "Persona 5",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/218a0aefd1d1a4be65601cc6ddc1520e.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-street-fighter-6": {
+    "title": "Street Fighter 6",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/6622392eb0d8dfdacc44c7f7397ce4ab.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-tekken-8": {
+    "title": "Tekken 8",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/77d570f78f6c228ea56fb529a4cd703f/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-mortal-kombat-1": {
+    "title": "Mortal Kombat 1",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/756f3d220f584170f0bd50b552fbb76b.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-marvel-rivals": {
+    "title": "Marvel Rivals",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/916030603cc86a9b3d29f4d64f1bc415/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-the-finals": {
+    "title": "The Finals",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/c798707d32dbc54e1076d05963029a00/32/256x256.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-battlefield-2042": {
+    "title": "Battlefield 2042",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/7fc9fd4c6654dea5be92c8ffd53bea1e/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-halo-infinite": {
+    "title": "Halo Infinite",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/f52166cd701447355be87cbf41d31ca4/32/256x256.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-sea-of-thieves": {
+    "title": "Sea of Thieves",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/ed8a8a99fd79417dd5ee86e141fc2233/32/512x512.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-no-man-s-sky": {
+    "title": "No Man's Sky",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/460295ce15c9440d9be6fb474387a285/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-satisfactory": {
+    "title": "Satisfactory",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/a12848aeac58ac57e95977f93fec17fd.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-factorio": {
+    "title": "Factorio",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/6ca4e9af5ea662a095c3243dc591bf54/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-rimworld": {
+    "title": "RimWorld",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/d37eb50d868361ea729bb4147eb3c1d8.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-cities-skylines-ii": {
+    "title": "Cities: Skylines II",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/7d446f87814b6737194161ce1e50d432.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-the-sims-4": {
+    "title": "The Sims 4",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/bca382c81484983f2d437f97d1e141f3.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-slay-the-spire": {
+    "title": "Slay the Spire",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/aecf89d1270d044970cf4da4de7cf218/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-balatro": {
+    "title": "Balatro",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/de7954bda572f1c1b0dfe0f44dee24f6/32/512x512.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-dave-the-diver": {
+    "title": "Dave the Diver",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/348bd749ca9ee5f03b04b8a2f0befc79/32/1024x1024.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-cult-of-the-lamb": {
+    "title": "Cult of the Lamb",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/0ac04853f8058f61af1ca7630e786d22/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-vampire-survivors": {
+    "title": "Vampire Survivors",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/2cb1e384e0906033e91c4795c75ae6fb/32/32x32.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-geometry-dash": {
+    "title": "Geometry Dash",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/750ed96f0d56d3346cda66d24bc0cbd5/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-osu": {
+    "title": "osu!",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/7684e639a4abf794db72f91df4047c64.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-beat-saber": {
+    "title": "Beat Saber",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/32e3b25cfdadc8779a12ddc58c0b2a8d/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-vrchat": {
+    "title": "VRChat",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/4b0a618db23379c7c77f818cf569050d/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-garry-s-mod": {
+    "title": "Garry's Mod",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/131f383b434fdf48079bff1e44e2d9a5/32/256x256.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-team-fortress-2": {
+    "title": "Team Fortress 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/d35a34476be067a04fa756c8c0b7dfbd/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-portal-2": {
+    "title": "Portal 2",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-doom-eternal": {
+    "title": "Doom Eternal",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/9813b270ed0288e7c0388f0fd4ec68f5/32/512x512.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-legacy-machine": {
+    "title": "Legacy Machine",
+    "thumbnail": {
+      "url": "https://files.catbox.moe/17r1h2.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-visual-studio-code": {
+    "title": "Visual Studio Code",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/0390aff9c68eeb7b64fbebe21c878de3.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-discord": {
+    "title": "Discord",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/0b105cf1504c4e241fcc6d519ea962fb/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-proton-vpn": {
+    "title": "Proton VPN",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/3f139754ab9de61afa67a38155def71a/32/256x256.png"
+    },
+    "color": "#6d4aff"
+  },
+  "theme-obs-studio": {
+    "title": "OBS Studio",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/205e73579f21c2ed134dbd6ce7e4a1ea/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-netflix": {
+    "title": "Netflix",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/2a1e5cb098723d7755de077c611a00bd/32/512x512.png"
+    },
+    "color": "#e50914"
+  },
+  "theme-youtube": {
+    "title": "YouTube",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/1b19b065aa1cbff9f24d818246adb139/32/512x512.png"
+    },
+    "color": "#ff0000"
+  },
+  "theme-twitch": {
+    "title": "Twitch",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/265ee80d4ae5ad561cd163ad7cf1b69d/32/512x512.png"
+    },
+    "color": "#9146ff"
+  },
+  "theme-instagram": {
+    "title": "Instagram",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/a80e27cd5852837e6269ce8654f44e15/32/512x512.png"
+    },
+    "color": "#ff004c"
+  },
+  "theme-tiktok": {
+    "title": "TikTok",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/094b7cd1111ed23f5b64a54744cb25b7/32/512x512.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-twitter": {
+    "title": "Twitter",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/d7b3a05661b9c3035a5d15e3f825b9a1/32/512x512.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-reddit": {
+    "title": "Reddit",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/66519e2f92e233f193cc33e9dd36199b/32/512x512.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-snapchat": {
+    "title": "Snapchat",
+    "thumbnail": {
+      "url": "https://icons.duckduckgo.com/ip3/snapchat.com.ico"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-whatsapp": {
+    "title": "WhatsApp",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/babf72b2e8ae279844c54bfa888a5476/32/512x512.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-telegram": {
+    "title": "Telegram",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/780bc94827df5175e0b4d1a7383948f6/32/512x512.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-slack": {
+    "title": "Slack",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/b1765f5855052362c90e3553739974dd/32/512x512.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-notion": {
+    "title": "Notion",
+    "thumbnail": {
+      "url": "https://icons.duckduckgo.com/ip3/notion.so.ico"
+    },
+    "color": "#00acee"
+  },
+  "theme-figma": {
+    "title": "Figma",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/70f981fedcd98028e47d565e80a2ea9e.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-photoshop": {
+    "title": "Photoshop",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/9fe2e0d3a22378f1f843300231fa1ad0/32/512x512.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-premiere-pro": {
+    "title": "Premiere Pro",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/93d3ec57424e77d53d157a25cac11d8b/32/512x512.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-after-effects": {
+    "title": "After Effects",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/f8d92a8069500fb16fceb6b1e620c55c.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-blender": {
+    "title": "Blender",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/32e7b56fb911eb28c0d28e10db9e353a.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-unity": {
+    "title": "Unity",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/5e69fda38cda2060819766569fd93aa5/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-unreal-engine": {
+    "title": "Unreal Engine",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/6f0c1bb16491e573170058e03e7b75ed.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-github": {
+    "title": "GitHub",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/654a404600f16d6cb75977f0fced0d89/32/256x256.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-gitlab": {
+    "title": "GitLab",
+    "thumbnail": {
+      "url": "https://icons.duckduckgo.com/ip3/gitlab.com.ico"
+    },
+    "color": "#5865F2"
+  },
+  "theme-bitbucket": {
+    "title": "Bitbucket",
+    "thumbnail": {
+      "url": "https://icons.duckduckgo.com/ip3/bitbucket.org.ico"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-chrome": {
+    "title": "Chrome",
+    "thumbnail": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609110/capsule_231x87.jpg?t=1761905691"
+    },
+    "color": "#ffb020"
+  },
+  "theme-firefox": {
+    "title": "Firefox",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/bea5b83d3a056039813089e7aa7f7e9a.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-edge": {
+    "title": "Edge",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/cbf8710b43df3f2c1553e649403426df/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-opera": {
+    "title": "Opera",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/1df0bc075f41bba344b62a0022af480a/32/512x512.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-brave": {
+    "title": "Brave",
+    "thumbnail": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2833580/96cb5968be9de64661027f45411cad361e46fc33/capsule_231x87.jpg?t=1774544767"
+    },
+    "color": "#f39c12"
+  },
+  "theme-steam": {
+    "title": "Steam",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/0305650d94e32c656ec55309a8467b4c/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-epic-games": {
+    "title": "Epic Games",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/ea01b0cdfdcb60806149a5471b78172a/32/512x512.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-battle-net": {
+    "title": "Battle.net",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/937ea3f7714dc0d01475da7bff33b596/32/256x256.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-origin": {
+    "title": "Origin",
+    "thumbnail": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/f7ce109f339c8ad6c1f8839313c64806a9edc203/capsule_231x87.jpg?t=1782362949"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-ubisoft-connect": {
+    "title": "Ubisoft Connect",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/064e3a5648fb4a7f911155bd81f87fd2/32/256x256.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-gog-galaxy": {
+    "title": "GOG Galaxy",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/a928731e103dfc64c0027fa84709689e/32/256x256.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-crunchyroll": {
+    "title": "Crunchyroll",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/51882a972ec6ebf94f45a973ae34efb2/32/512x512.png"
+    },
+    "color": "#ff5500"
+  },
+  "theme-disney": {
+    "title": "Disney+",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/3156e1ab31baada7869f68c7c8590099.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-prime-video": {
+    "title": "Prime Video",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/5f571dab87bb1e74ac7a2f57a697af7e/32/512x512.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-hbo-max": {
+    "title": "HBO Max",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/c2cccd26ad05b1414810949e82abb1b7/32/512x512.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-apple-tv": {
+    "title": "Apple TV+",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/1d401ffcbd3e20cb41e77d42a769ac3f/32/512x512.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-spotify": {
+    "title": "Spotify",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/024d8fb669fc9b7e82092338f3e0d015/32/512x512.png"
+    },
+    "color": "#1db954"
+  },
+  "theme-apple-music": {
+    "title": "Apple Music",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/a11a8602c0bdfa64f344b691f2da4d0f.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-soundcloud": {
+    "title": "SoundCloud",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon_thumb/034449c8eea9c7448f6623888d85976b.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-deezer": {
+    "title": "Deezer",
+    "thumbnail": {
+      "url": "https://cdn2.steamgriddb.com/icon/0b8becede7a3559aa2deeff99c51d9c6/32/256x256.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-solo-leveling": {
+    "title": "Solo Leveling",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-jujutsu-kaisen": {
+    "title": "Jujutsu Kaisen",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg"
+    },
+    "color": "#ffb020"
+  },
+  "theme-one-piece": {
+    "title": "One Piece",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-naruto-shippuden": {
+    "title": "Naruto Shippuden",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-bleach": {
+    "title": "Bleach",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-attack-on-titan": {
+    "title": "Attack on Titan",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg"
+    },
+    "color": "#f39c12"
+  },
+  "theme-demon-slayer": {
+    "title": "Demon Slayer",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-chainsaw-man": {
+    "title": "Chainsaw Man",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-spy-x-family": {
+    "title": "Spy x Family",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg"
+    },
+    "color": "#ffb020"
+  },
+  "theme-my-hero-academia": {
+    "title": "My Hero Academia",
+    "thumbnail": {
+      "url": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-death-note": {
+    "title": "Death Note",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-fullmetal-alchemist": {
+    "title": "Fullmetal Alchemist",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png"
+    },
+    "color": "#00acee"
+  },
+  "theme-hunter-x-hunter": {
+    "title": "Hunter x Hunter",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg"
+    },
+    "color": "#f39c12"
+  },
+  "theme-tokyo-ghoul": {
+    "title": "Tokyo Ghoul",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg"
+    },
+    "color": "#5865F2"
+  },
+  "theme-steins-gate": {
+    "title": "Steins;Gate",
+    "thumbnail": {
+      "url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-code-geass": {
+    "title": "Code Geass",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg"
+    },
+    "color": "#ffb020"
+  },
+  "theme-vinland-saga": {
+    "title": "Vinland Saga",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-mob-psycho-100": {
+    "title": "Mob Psycho 100",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-one-punch-man": {
+    "title": "One Punch Man",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg"
+    },
+    "color": "#00acee"
+  },
+  "theme-blue-lock": {
+    "title": "Blue Lock",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-frieren": {
+    "title": "Frieren",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg"
+    },
+    "color": "#5865F2"
+  },
+  "theme-bocchi-the-rock": {
+    "title": "Bocchi the Rock",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-cyberpunk-edgerunners": {
+    "title": "Cyberpunk: Edgerunners",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg"
+    },
+    "color": "#ffb020"
+  },
+  "theme-re-zero": {
+    "title": "Re:Zero",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-konosuba": {
+    "title": "Konosuba",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-overlord": {
+    "title": "Overlord",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg"
+    },
+    "color": "#00acee"
+  },
+  "theme-that-time-i-got-reincarnated-as-a-slime": {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg"
+    },
+    "color": "#f39c12"
+  },
+  "theme-black-clover": {
+    "title": "Black Clover",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png"
+    },
+    "color": "#5865F2"
+  },
+  "theme-fire-force": {
+    "title": "Fire Force",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-dr-stone": {
+    "title": "Dr. Stone",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg"
+    },
+    "color": "#ffb020"
+  },
+  "theme-haikyuu": {
+    "title": "Haikyuu!!",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-kaguya-sama": {
+    "title": "Kaguya-sama",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-oshi-no-ko": {
+    "title": "Oshi no Ko",
+    "thumbnail": {
+      "url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
+    },
+    "color": "#00acee"
+  },
+  "theme-mashle": {
+    "title": "Mashle",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-dandadan": {
+    "title": "Dandadan",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg"
+    },
+    "color": "#5865F2"
+  },
+  "theme-sakamoto-days": {
+    "title": "Sakamoto Days",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-tower-of-god": {
+    "title": "Tower of God",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg"
+    },
+    "color": "#ffb020"
+  },
+  "theme-the-promised-neverland": {
+    "title": "The Promised Neverland",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-erased": {
+    "title": "Erased",
+    "thumbnail": {
+      "url": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-your-name": {
+    "title": "Your Name",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg"
+    },
+    "color": "#00acee"
+  },
+  "theme-weathering-with-you": {
+    "title": "Weathering With You",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-suzume": {
+    "title": "Suzume",
+    "thumbnail": {
+      "url": "https://cdn.myanimelist.net/images/anime/1598/128450l.jpg"
+    },
+    "color": "#5865F2"
+  },
+  "theme-a-silent-voice": {
+    "title": "A Silent Voice",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg"
+    },
+    "color": "#3dd68c"
+  },
+  "theme-violet-evergarden": {
+    "title": "Violet Evergarden",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png"
+    },
+    "color": "#ffb020"
+  },
+  "theme-made-in-abyss": {
+    "title": "Made in Abyss",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg"
+    },
+    "color": "#ff5c7a"
+  },
+  "theme-parasyte": {
+    "title": "Parasyte",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg"
+    },
+    "color": "#9b59b6"
+  },
+  "theme-psycho-pass": {
+    "title": "Psycho-Pass",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13601-i42VFuHpqEOJ.jpg"
+    },
+    "color": "#00acee"
+  },
+  "theme-cowboy-bebop": {
+    "title": "Cowboy Bebop",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png"
+    },
+    "color": "#f39c12"
+  },
+  "theme-trigun-stampede": {
+    "title": "Trigun Stampede",
+    "thumbnail": {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151040-9QXRpaprfNmL.png"
+    },
+    "color": "#5865F2"
+  },
+  "crunchyroll": {
+    "title": "Crunchyroll",
+    "thumbnail": {
+      "url": "https://logo.clearbit.com/crunchyroll.com"
+    },
+    "color": "#ff5500"
+  },
+  "instagram": {
+    "title": "Instagram",
+    "thumbnail": {
+      "url": "https://logo.clearbit.com/instagram.com"
+    },
+    "color": "#ff004c"
+  }
 }
