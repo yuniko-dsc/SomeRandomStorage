@@ -1,0 +1,13 @@
+{
+    "crunchyroll": {
+	    "title": ""Crunchyroll",
+		"thumbnail": { "url": "https://i.postimg.cc/hhWkpKD8/image.png" },
+		"color": "#ff5500"
+	},
+	
+	"instagram": {
+	    "title": ""Instagram",
+		"thumbnail": { "url": "https://i.postimg.cc/7ZD6Lk3N/image.png" },
+		"color": "#ff004c"
+	}
+}
