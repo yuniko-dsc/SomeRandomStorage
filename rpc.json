@@ -1,0 +1,46 @@
+{
+    "ps6": {
+		"name": "Playing on PS6",
+        "type": "COMPETING",
+        "state": "Orbis v11.52",
+        "details": "Early Access (Exclusive)",
+        "application_id": null,
+        "platform": "ps5",
+        "assets": { "large_image": "https://i.postimg.cc/TYBM3qnZ/image.png" },
+        "buttons": [],
+        "metadata": {
+            "button_urls": []
+        },
+        "timestamps": null
+	},
+	
+	"proton": {
+		"name": "Proton VPN",
+        "type": "STREAMING",
+        "state": "REAL: 68.148.144.137",
+        "details": "VPN: 111.42.116.82",
+        "application_id": null,
+        "platform": "desktop",
+        "assets": { "large_image": "https://i.postimg.cc/sfS0JdWZ/image.png" },
+        "buttons": [],
+        "metadata": {
+            "button_urls": []
+        },
+        "timestamps": null
+	},
+	
+	"gta6": {
+		"name": "GTA VI",
+        "type": "PLAYING",
+        "state": "Playing as Lucia",
+        "details": null,
+        "application_id": null,
+        "platform": "xbox",
+        "assets": { "large_image": "https://i.postimg.cc/RFwQwmDk/image.png" },
+        "buttons": [],
+        "metadata": {
+            "button_urls": []
+        },
+        "timestamps": null
+	}
+}
