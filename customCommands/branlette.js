@@ -1,5 +1,3 @@
-const { Client, Message } = require("djs-selfbot-v13");
-
 const pignouf = [
     '8=:fist:==D',
     '8==:fist:=D',
@@ -18,11 +16,6 @@ module.exports = {
     name: "branlette",
     description: "Effectue une branlette.",
     aliases: [],
-    /**
-     * @param {Client} client
-     * @param {Message} message
-     * @param {string[]} args
-     */
     run: async (client, message, args) => {
         for (const text of pignouf.values()) {
             await message.edit(text);
@@ -32,4 +25,3 @@ module.exports = {
         message.delete();
     },
 };
-
